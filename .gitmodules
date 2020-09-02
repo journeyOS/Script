@@ -4,3 +4,9 @@
 [submodule "android"]
 	path = android
 	url = https://github.com/journeyOS/AndroidScript.git
+[submodule "btc"]
+	path = btc
+	url = https://github.com/journeyOS/BotBtc
+[submodule "pi"]
+	path = pi
+	url = https://github.com/journeyOS/Pi.git
